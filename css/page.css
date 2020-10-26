@@ -2,3 +2,14 @@
 {
     display:none;
 }
+.normal {
+    background-color: white;
+}
+.markCorrect{
+    background-color: lightgreen;
+}
+.correct {
+    background-color: aqua;
+}
+
+
