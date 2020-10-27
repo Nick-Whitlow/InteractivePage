@@ -11,5 +11,8 @@
 .correct {
     background-color: aqua;
 }
+small {
+    font-size: 12;
+}
 
 
